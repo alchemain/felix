@@ -1,6 +1,13 @@
 # felix
 
-let felix fix it — automated Java dependency upgrades for Maven and Gradle.
+let felix fix it — automated dependency upgrades
+
+## Supported
+* Java (Maven/Gradle)
+* Python (uv, pip, poetry) - coming soon
+* Javascript (npm, bun) - coming soon
+* .Net (nuget) - coming soon
+* Go - coming soon
 
 ## Install
 
